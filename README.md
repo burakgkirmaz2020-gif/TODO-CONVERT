@@ -2,8 +2,6 @@
 
 Todo Convert, Todo Pictures için macOS'ta çalışan bir dosya dönüştürme ve düzenleme uygulamasıdır. Finder'dan dosya sürüklerken bir tuşa basınca açılan **çark** menüsüyle görselleri, PDF'leri, Office belgelerini, ses ve videoları dönüştürür, kırpar ve düzenler.
 
-> Todo Convert, açık kaynaklı [Nashi](https://github.com/orkunisitmak/nashi-app) uygulamasının (MIT lisansı, © Orkun Işıtmak ve Nashi katkıcıları) bir fork'udur. Orijinal lisans metni [LICENSE](LICENSE) dosyasında korunmaktadır.
-
 ## Özellikler
 
 - 27 araç, 46 girdi formatı, 276 dönüşüm yolu
