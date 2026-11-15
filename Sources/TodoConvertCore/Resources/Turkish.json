@@ -672,7 +672,6 @@
   "{0} · Todo Convert": "{0} · Todo Convert",
   "Allow {0} once to move and resize other apps’ windows.": "Diğer uygulamaların pencerelerini taşımak ve boyutlandırmak için bir kez {0} izni ver.",
   "{0} is enabled": "{0} izni açık",
-  "Upgraded from Tangerine? macOS may still show the previous name. Choose this Todo Convert app when adding it to {0}.": "Tangerine'den mi geçtin? macOS eski adı gösterebilir. {0} iznine eklerken bu Todo Convert uygulamasını seç.",
   "Finish the current operation or choose Cancel before closing Todo Convert.": "Todo Convert'i kapatmadan önce işlemin bitmesini bekle veya İptal'i seç.",
   "Finish or cancel the current operation before quitting.": "Çıkmadan önce mevcut işlemi bitir veya iptal et.",
   "Settings could not be saved": "Ayarlar kaydedilemedi",

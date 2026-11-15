@@ -2731,8 +2731,6 @@
 "Updates are signed and verified before installation. Changing repositories keeps the same trusted signing key. Your settings and files stay with you." = "Updates are signed and verified before installation. Changing repositories keeps the same trusted signing key. Your settings and files stay with you.";
 "Updates are verified before installation. Your settings and recent history stay with you." = "Updates are verified before installation. Your settings and recent history stay with you.";
 "Update…" = "Update…";
-"Upgraded from Tangerine? macOS may still show the previous name. Choose this Todo Convert app when adding it to %@." = "Upgraded from Tangerine? macOS may still show the previous name. Choose this Todo Convert app when adding it to %@.";
-"Upgraded from Tangerine? macOS may still show the previous name. Choose this Todo Convert app when adding it to %lld." = "Upgraded from Tangerine? macOS may still show the previous name. Choose this Todo Convert app when adding it to %lld.";
 "Upstream download checksum mismatch. Nothing was installed." = "Upstream download checksum mismatch. Nothing was installed.";
 "Upstream package has no regular %@ executable." = "Upstream package has no regular %@ executable.";
 "Upstream package has no regular %lld executable." = "Upstream package has no regular %lld executable.";

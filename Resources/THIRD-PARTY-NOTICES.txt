@@ -1,4 +1,4 @@
-TodoConvert for Mac. Independent implementation; not affiliated with LEAP STUDIO or its Tangerine product.
+Todo Convert for Mac.
 
 FFmpeg 9.0 and ffprobe 9.0, Copyright FFmpeg contributors, GPL v2 or later.
 Public packages download the Apple Silicon tools directly from OSXExperts during setup: https://www.osxexperts.net/

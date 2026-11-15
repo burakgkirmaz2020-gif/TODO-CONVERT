@@ -2731,8 +2731,6 @@
 "Updates are signed and verified before installation. Changing repositories keeps the same trusted signing key. Your settings and files stay with you." = "Les mises à jour sont signées et vérifiées avant l’installation. Changer de dépôt conserve la même clé de signature de confiance. Vos réglages et vos fichiers sont conservés.";
 "Updates are verified before installation. Your settings and recent history stay with you." = "Les mises à jour sont vérifiées avant l’installation. Vos réglages et votre historique récent sont conservés.";
 "Update…" = "Mettre à jour…";
-"Upgraded from Tangerine? macOS may still show the previous name. Choose this Todo Convert app when adding it to %@." = "Vous venez de Tangerine ? macOS peut encore afficher l’ancien nom. Choisissez cette app Todo Convert en l’ajoutant à %@.";
-"Upgraded from Tangerine? macOS may still show the previous name. Choose this Todo Convert app when adding it to %lld." = "Vous venez de Tangerine ? macOS peut encore afficher l’ancien nom. Choisissez cette app Todo Convert en l’ajoutant à %lld.";
 "Upstream download checksum mismatch. Nothing was installed." = "Somme de contrôle du téléchargement amont incorrecte. Rien n’a été installé.";
 "Upstream package has no regular %@ executable." = "Le paquet amont ne contient pas d’exécutable %@ ordinaire.";
 "Upstream package has no regular %lld executable." = "Le paquet amont ne contient pas d’exécutable %lld ordinaire.";

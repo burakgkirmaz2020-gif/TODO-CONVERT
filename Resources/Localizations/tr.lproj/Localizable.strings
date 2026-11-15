@@ -2731,8 +2731,6 @@
 "Updates are signed and verified before installation. Changing repositories keeps the same trusted signing key. Your settings and files stay with you." = "Güncellemeler imzalanır ve kurulmadan önce doğrulanır. Depo değişse de güvenilir imza anahtarı aynı kalır. Ayarların ve dosyaların korunur.";
 "Updates are verified before installation. Your settings and recent history stay with you." = "Güncellemeler kurulmadan önce doğrulanır. Ayarların ve son işlem geçmişin korunur.";
 "Update…" = "Güncelle…";
-"Upgraded from Tangerine? macOS may still show the previous name. Choose this Todo Convert app when adding it to %@." = "Tangerine'den mi geçtin? macOS eski adı gösterebilir. %@ iznine eklerken bu Todo Convert uygulamasını seç.";
-"Upgraded from Tangerine? macOS may still show the previous name. Choose this Todo Convert app when adding it to %lld." = "Tangerine'den mi geçtin? macOS eski adı gösterebilir. %lld iznine eklerken bu Todo Convert uygulamasını seç.";
 "Upstream download checksum mismatch. Nothing was installed." = "İndirilen aracın sağlama toplamı eşleşmiyor. Hiçbir şey kurulmadı.";
 "Upstream package has no regular %@ executable." = "İndirilen pakette normal bir %@ çalıştırılabilir dosyası yok.";
 "Upstream package has no regular %lld executable." = "İndirilen pakette normal bir %lld çalıştırılabilir dosyası yok.";

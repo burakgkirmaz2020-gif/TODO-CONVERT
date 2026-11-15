@@ -129,10 +129,6 @@ struct SettingsView:View {
                             Spacer()
                             Button("Open permission settings…") { WindowManagementController.requestAccess() }
                         }
-                        if Bundle.main.bundleIdentifier == "local.tangerine.replica" {
-                            Text("Upgraded from Tangerine? macOS may still show the previous name. Choose this Todo Convert app when adding it to \(WindowManagementController.permissionName).").font(.caption).foregroundStyle(.secondary)
-                            Button("Show Todo Convert in Finder") { NSWorkspace.shared.activateFileViewerSelecting([Bundle.main.bundleURL]) }
-                        }
                     } else { Label("\(WindowManagementController.permissionName) is enabled",systemImage:"checkmark.circle").font(.caption).foregroundStyle(.secondary) }
                 }.padding(10)
             }
